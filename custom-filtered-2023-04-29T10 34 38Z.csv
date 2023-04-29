@@ -1,0 +1,49 @@
+Regions Code,Regions,Age (C) (3 categories) Code,Age (C) (3 categories),Ethnic group (8 categories) Code,Ethnic group (8 categories),Sex (2 categories) Code,Sex (2 categories),Observation
+E12000007,London,1,Aged 24 years and under,-8,Does not apply,1,Female,0
+E12000007,London,1,Aged 24 years and under,-8,Does not apply,2,Male,0
+E12000007,London,1,Aged 24 years and under,1,"Asian, Asian British or Asian Welsh",1,Female,298885
+E12000007,London,1,Aged 24 years and under,1,"Asian, Asian British or Asian Welsh",2,Male,309525
+E12000007,London,1,Aged 24 years and under,2,"Black, Black British, Black Welsh, Caribbean or African",1,Female,220266
+E12000007,London,1,Aged 24 years and under,2,"Black, Black British, Black Welsh, Caribbean or African",2,Male,222999
+E12000007,London,1,Aged 24 years and under,3,Mixed or Multiple ethnic groups,1,Female,140807
+E12000007,London,1,Aged 24 years and under,3,Mixed or Multiple ethnic groups,2,Male,141379
+E12000007,London,1,Aged 24 years and under,4,"White: English, Welsh, Scottish, Northern Irish or British",1,Female,409560
+E12000007,London,1,Aged 24 years and under,4,"White: English, Welsh, Scottish, Northern Irish or British",2,Male,422742
+E12000007,London,1,Aged 24 years and under,5,White: Irish,1,Female,8460
+E12000007,London,1,Aged 24 years and under,5,White: Irish,2,Male,8082
+E12000007,London,1,Aged 24 years and under,6,"White: Gypsy or Irish Traveller, Roma or Other White",1,Female,158248
+E12000007,London,1,Aged 24 years and under,6,"White: Gypsy or Irish Traveller, Roma or Other White",2,Male,151532
+E12000007,London,1,Aged 24 years and under,7,Other ethnic group,1,Female,89654
+E12000007,London,1,Aged 24 years and under,7,Other ethnic group,2,Male,92325
+E12000007,London,2,Aged 25 to 49 years,-8,Does not apply,1,Female,0
+E12000007,London,2,Aged 25 to 49 years,-8,Does not apply,2,Male,0
+E12000007,London,2,Aged 25 to 49 years,1,"Asian, Asian British or Asian Welsh",1,Female,407934
+E12000007,London,2,Aged 25 to 49 years,1,"Asian, Asian British or Asian Welsh",2,Male,373652
+E12000007,London,2,Aged 25 to 49 years,2,"Black, Black British, Black Welsh, Caribbean or African",1,Female,233635
+E12000007,London,2,Aged 25 to 49 years,2,"Black, Black British, Black Welsh, Caribbean or African",2,Male,174321
+E12000007,London,2,Aged 25 to 49 years,3,Mixed or Multiple ethnic groups,1,Female,90896
+E12000007,London,2,Aged 25 to 49 years,3,Mixed or Multiple ethnic groups,2,Male,76378
+E12000007,London,2,Aged 25 to 49 years,4,"White: English, Welsh, Scottish, Northern Irish or British",1,Female,566448
+E12000007,London,2,Aged 25 to 49 years,4,"White: English, Welsh, Scottish, Northern Irish or British",2,Male,599139
+E12000007,London,2,Aged 25 to 49 years,5,White: Irish,1,Female,28253
+E12000007,London,2,Aged 25 to 49 years,5,White: Irish,2,Male,29102
+E12000007,London,2,Aged 25 to 49 years,6,"White: Gypsy or Irish Traveller, Roma or Other White",1,Female,411792
+E12000007,London,2,Aged 25 to 49 years,6,"White: Gypsy or Irish Traveller, Roma or Other White",2,Male,366778
+E12000007,London,2,Aged 25 to 49 years,7,Other ethnic group,1,Female,122742
+E12000007,London,2,Aged 25 to 49 years,7,Other ethnic group,2,Male,110783
+E12000007,London,3,Aged 50 years and over,-8,Does not apply,1,Female,0
+E12000007,London,3,Aged 50 years and over,-8,Does not apply,2,Male,0
+E12000007,London,3,Aged 50 years and over,1,"Asian, Asian British or Asian Welsh",1,Female,224475
+E12000007,London,3,Aged 50 years and over,1,"Asian, Asian British or Asian Welsh",2,Male,203168
+E12000007,London,3,Aged 50 years and over,2,"Black, Black British, Black Welsh, Caribbean or African",1,Female,192749
+E12000007,London,3,Aged 50 years and over,2,"Black, Black British, Black Welsh, Caribbean or African",2,Male,144404
+E12000007,London,3,Aged 50 years and over,3,Mixed or Multiple ethnic groups,1,Female,31637
+E12000007,London,3,Aged 50 years and over,3,Mixed or Multiple ethnic groups,2,Male,24678
+E12000007,London,3,Aged 50 years and over,4,"White: English, Welsh, Scottish, Northern Irish or British",1,Female,643764
+E12000007,London,3,Aged 50 years and over,4,"White: English, Welsh, Scottish, Northern Irish or British",2,Male,597628
+E12000007,London,3,Aged 50 years and over,5,White: Irish,1,Female,44553
+E12000007,London,3,Aged 50 years and over,5,White: Irish,2,Male,37883
+E12000007,London,3,Aged 50 years and over,6,"White: Gypsy or Irish Traveller, Roma or Other White",1,Female,135305
+E12000007,London,3,Aged 50 years and over,6,"White: Gypsy or Irish Traveller, Roma or Other White",2,Male,111904
+E12000007,London,3,Aged 50 years and over,7,Other ethnic group,1,Female,71559
+E12000007,London,3,Aged 50 years and over,7,Other ethnic group,2,Male,69704
